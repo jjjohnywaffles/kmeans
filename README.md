@@ -1,7 +1,11 @@
 # **Kmeans Analysis and Website Development**
 
-**Name**: Jonathan Hu  
-**Course**: CSPB 3112 - Fall 2024 - Craven - Professional Development in Computer Science  
+### **Name**: Jonathan Hu  
+### **Course**: CSPB 3112 - Fall 2024 - Craven - Professional Development in Computer Science  
+
+### **Website**: jjjohnywaffles.github.io
+
+### **Website Repository:** https://github.com/jjjohnywaffles/jjjohnywaffles.github.io
 
 ---
 
